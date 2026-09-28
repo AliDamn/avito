@@ -1,0 +1,12 @@
+# данные соревнования и тяжёлые артефакты — не в репозитории (ссылки в README)
+cache/
+models/
+pairs.parquet
+*.parquet
+answer_old_*.csv
+
+.venv/
+__pycache__/
+.idea/
+.DS_Store
+*.zip
